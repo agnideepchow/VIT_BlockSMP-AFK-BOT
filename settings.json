@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "TheOneWhoNeverSleeps",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "VIT_BlockSMP.aternos.me:38038",
     "port": 29195,
     "version": "1.21.1"
   },
