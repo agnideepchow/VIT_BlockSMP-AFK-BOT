@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "VIT_BlockSMP.aternos.me",
-    "port": 38038,
+    "port" 38038,
     "version": "1.21.1"
   },
   "position": {
